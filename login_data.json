@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "admin",
+    "expired": "2026-12-01",
+    "timelimit": 9999999999999,
+    "conc": 99999999999999
+  },
+  "kaze": {
+    "password": "kazesepong",
+    "expired": "2026-11-30",
+    "timelimit": 300,
+    "conc": 1
+  }
+}
