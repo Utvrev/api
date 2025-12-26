@@ -5,6 +5,12 @@
     "timelimit": 9999999999999,
     "conc": 99999999999999
   },
+  "vinz": {
+    "password": "vinzganteng",
+    "expired": "2026-1-8",
+    "timelimit": 260,
+    "conc": 1
+  },
   "Pimzz": {
     "password": "1",
     "expired": "2026-11-30",
